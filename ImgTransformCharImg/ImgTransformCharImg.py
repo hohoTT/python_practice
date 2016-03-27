@@ -5,8 +5,8 @@ __author__ = 'hohoTT'
 from PIL import Image
 
 IMG = "doraemon.png"
-WIDTH = 80
-HEIGHT = 80
+WIDTH =130
+HEIGHT = 100
 OUTPUT = "ImgTransformCharImg.txt"
 
 ascii_char = list("$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\"^`'. ")
@@ -38,8 +38,8 @@ if __name__ == '__main__':
 
     #字符画输出到文件
     if OUTPUT:
-        with open(OUTPUT,'w') as f:
+        with open(OUTPUT, 'w') as f:
             f.write(txt)
     else:
-        with open("output.txt",'w') as f:
+        with open("output.txt", 'w') as f:
             f.write(txt)
