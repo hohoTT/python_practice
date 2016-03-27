@@ -4,10 +4,12 @@ __author__ = 'hohoTT'
 
 from PIL import Image
 
-IMG = "doraemon.png"
-WIDTH =130
-HEIGHT = 100
-OUTPUT = "ImgTransformCharImg.txt"
+#IMG = "img/doraemon.png"
+IMG = "img/testFive.jpg"
+WIDTH =100
+HEIGHT = 80
+#OUTPUT = "img/ImgTransformCharImg.txt"
+OUTPUT = "outputFile/testFive.txt"
 
 ascii_char = list("$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\"^`'. ")
 
