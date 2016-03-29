@@ -34,3 +34,8 @@ python练习册，用于日常python的练习，都是比较有意思的程序
 
   该项目实现创建验证码图片，将随机产生的四个字母制作成验证码的图片，使用os.path.join(路径，图像文件名)将其产生的验证码图片保存到resultImg文件夹中，图片的保存名字为验证码内容
   
+  
+  ![](https://github.com/hohoTT/python_practice/blob/master/MakeIdentifyingCode/resultImg/GcPV.jpg)
+  
+  ![](https://github.com/hohoTT/python_practice/blob/master/MakeIdentifyingCode/resultImg/LwDQ.jpg)
+  
