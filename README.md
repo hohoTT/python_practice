@@ -22,4 +22,6 @@ python练习册，用于日常python的练习，都是比较有意思的程序
 二、项目ImgAddNumber为使用python实现向图片添加数字的程序
   
   实现向图片中添加数字的功能，目前定义的是添加红色的数字，颜色可调，使用Windows系统中C:/windows/fonts/Calibri.ttf的字体样式
+  类似于图中的效果
+  ![](https://github.com/hohoTT/python_practice/blob/master/ImgAddNumber/result.jpg)
   
