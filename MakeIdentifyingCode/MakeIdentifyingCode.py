@@ -7,6 +7,7 @@ import string
 import random
 import os
 
+# 使用的Windows中自带的字体样式
 fontPath = "C:/windows/fonts/Calibri.ttf"
 
 
